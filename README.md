@@ -228,7 +228,7 @@ I am open to **freelance graphic design projects**, **creative design contracts*
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rifathossai47%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifathossai47@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rifat8851%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifat8851@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RifatHossaiN47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RifatHossaiN47)
 
 <br/>
