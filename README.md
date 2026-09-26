@@ -1,4 +1,4 @@
-# 🎨 Md. Rifat Hossain — Graphic Design & Creative Media Portfolio
+# 🎨 Md. Rifat Hossen — Graphic Design & Creative Media Portfolio
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ## 👨‍🎨 About Me
 
-Welcome to my creative design portfolio! I am **Md. Rifat Hossain**, a graphic designer, visual artist, and motion editor. I specialize in crafting high-impact event branding, marketing posters, corporate identity assets, certificate designs, and motion opener animations. 
+Welcome to my creative design portfolio! I am **Md. Rifat Hossen**, a graphic designer, visual artist, and motion editor. I specialize in crafting high-impact event branding, marketing posters, corporate identity assets, certificate designs, and motion opener animations. 
 
 My work blends typography, photo manipulation, and balanced layouts tailored for university organizations, student branches (IEEE CS CUET, CUET Computer Club), student associations, and independent digital brands.
 
@@ -233,7 +233,7 @@ I am open to **freelance graphic design projects**, **creative design contracts*
 
 <br/>
 
-**Crafted with dedication by Md. Rifat Hossain**  
+**Crafted with dedication by Md. Rifat Hossen**  
 *CUET, Chattogram, Bangladesh*
 
 </div>
